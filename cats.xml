@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+	<item name="Live" color="#2c73d2" automatch="maria"></item>
+	<item name="Ads" color="#ff6f91" automatch="wj,w"></item>
+</Categories>
