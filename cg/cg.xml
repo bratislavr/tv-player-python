@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CGs>
+  <CG>
+    <CGName>CG 1</CGName>
+    <CGUri>https://plycast.com/downloads/testhtml/?uid=%UID%</CGUri>
+    <CGUpTime>00:00:00.000</CGUpTime>
+    <CGDowntime>00:03:20.000</CGDowntime>
+    <CGDuration>00:00:30.000</CGDuration>
+    <CGMix>16</CGMix>
+    <PostURL>True</PostURL>
+    <CGLayer>20</CGLayer>
+    <AutoOn>*</AutoOn>
+    <AutoOff>W_</AutoOff>
+  </CG>
+</CGs>
